@@ -1,0 +1,1 @@
+print("Sytem Scan Initiated..... Hello, Cyber world")
