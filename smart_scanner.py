@@ -1,7 +1,7 @@
 import socket
 target_host="google.com"
 target_port=22
-print(f"--cyber guard scanner v2.0--")
+print(f"--cyber guard scanner v2.1--")
 print(f"checking{target_host} on port {target_port}...\n")
 client=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 client.settimeout(2.0)
