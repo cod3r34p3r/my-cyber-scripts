@@ -1,0 +1,10 @@
+--CYBER SECURITY SCAN REPORT--
+Target Host Evaluated:scanme.nmap.org
+-----------------------------------
+
+[-]Port21: CLOSED(secure)
+[+]Port22:OPEN(High Risk Alert)
+[+]Port80:OPEN(High Risk Alert)
+[-]Port443: CLOSED(secure)
+
+--End Report--
