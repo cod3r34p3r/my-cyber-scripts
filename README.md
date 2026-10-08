@@ -34,7 +34,7 @@ This repository is where I store my scripts, notes, and lab experiments as I lea
 - [x] Configure separate Git signatures for my distinct projects
 - [x] Build network scanning script variations
 - [x] Write a script to parse text files for security events
-- [ ] Add dynamic terminal inputs to the scanner tool
+- [x] Add dynamic terminal inputs to the scanner tool
 - [ ] Document my first deep-dive security research notes
 - [ ] Write a script to look for basic web vulnerabilities
 
