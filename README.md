@@ -16,6 +16,7 @@ This repository is where I store my scripts, notes, and lab experiments as I lea
 * smart_scanner.py - Added basic logic to check if specific open ports are high-risk.
 * loop_scanner.py - Tweaked the code to scan a list of multiple ports automatically instead of one by one.
 * log_parser.py - A basic log scraper that reads server files and flags failed login attempts.
+* sys_check.sh - This is my first automated system discovery bash script
 
 ### Research Logs & Notes (To Do)
 * /research - Breaking down practical security use cases and defensive concepts.
@@ -27,6 +28,7 @@ This repository is where I store my scripts, notes, and lab experiments as I lea
 * Language: Python 3.12+
 * Editor: VS Code
 * Version Control: Git & GitHub
+* Bash
 
 ## Roadmap & Checklists
 - [x] Configure separate Git signatures for my distinct projects
