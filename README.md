@@ -35,8 +35,8 @@ This repository is where I store my scripts, notes, and lab experiments as I lea
 - [x] Build network scanning script variations
 - [x] Write a script to parse text files for security events
 - [x] Add dynamic terminal inputs to the scanner tool
-- [ ] Document my first deep-dive security research notes
-- [ ] Write a script to look for basic web vulnerabilities
+- [x] Document my first deep-dive security research notes
+- [x] Write a script to look for basic web vulnerabilities
 
 
 I update this repository as I learn. Feel free to follow my progress or check out the code!
