@@ -17,7 +17,7 @@ This repository is where I store my scripts, notes, and lab experiments as I lea
 * loop_scanner.py - Tweaked the code to scan a list of multiple ports automatically instead of one by one.
 * log_parser.py - A basic log scraper that reads server files and flags failed login attempts.
 * sys_check.sh - This is my first automated system discovery bash script
-* log_integrity_monitor.py - Cryptographic tool tracking hash signatures to detect file alterations. Built to resolve the official [roadmap.sh File Integrity * Checker Challenge](https://roadmap.sh/projects/file-integrity-checker).
+* log_integrity_monitor.py - Cryptographic tool tracking hash signatures to detect file alterations. Built to resolve the official [roadmap.sh File Integrity Checker Challenge](https://roadmap.sh/projects/file-integrity-checker).
 
 
 ### Research Logs & Notes (To Do)
